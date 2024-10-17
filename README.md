@@ -34,3 +34,11 @@ The result shows the training set adjusted by Gan can achieve higher accuracy on
 [5] K. Ahirwar, Generative Adversarial Networks Pro- jects: Build Next-Generation Generative Models Using Tensorflow and Keras. Birmingham, UK: Packt Publish- ing, 2019.
 
 ## Appendix
+
+#### Appendix A:
+![image](https://github.com/mengchelee/Advanced-Music-Genre-Classification/blob/main/appendixa.png)
+#### Appendix B:
+![image](https://github.com/mengchelee/Advanced-Music-Genre-Classification/blob/main/appendixb.png)
+#### Appendix C:
+![image](https://github.com/mengchelee/Advanced-Music-Genre-Classification/blob/main/appendixc.png)
+
